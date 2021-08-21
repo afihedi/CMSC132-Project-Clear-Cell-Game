@@ -1,3 +1,3 @@
 # CMSC132-Project-Clear-Cell-Game
-Project Presented by CMSC132 at UMD, completed by me
-This game is a much simpler version of Tetris
+Project Presented by CMSC132 at UMD, completed by me.
+ This game is a much simpler version of Tetris
